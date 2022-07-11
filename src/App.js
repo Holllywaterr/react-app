@@ -10,7 +10,7 @@ function Header(){
 function Article(){
   return <article>
   <h2>Welcome</h2>
-  Hello Web!
+  Hello Web~!!!
   </article>
 }
 
